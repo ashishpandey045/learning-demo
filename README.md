@@ -1,3 +1,3 @@
 # learning-demo
-This is my firts repositary
+This is my first Repository.
 Author - Ashish Pandey
